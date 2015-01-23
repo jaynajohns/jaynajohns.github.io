@@ -1,3 +1,18 @@
-p {
-  color: #330066;
+// CSS
+<style type="text/css">
+h2{
+  color: #c04;
 }
+.resume{
+  color: #01b;
+}
+.section-title{
+  color: #c04;
+}
+.header-name{
+  color: #902;
+}
+.biography{
+  color: #900;
+}
+</style>
