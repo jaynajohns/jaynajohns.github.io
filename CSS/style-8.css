@@ -1,0 +1,21 @@
+/*CSS*/
+
+.top{
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 105%;
+color: #B2CCFF;
+letter-spacing: -1px;
+}
+.middle{
+font-family: Impact, Charcoal, sans-serif;
+font-size: 120%;
+background: -webkit-linear-gradient(#B2CCFF, #293D66);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+word-spacing: +.5px; 
+}
+.bottom{
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+color: #293c66;
+text-shadow: 2px 2px 2px #293c66;
+}
