@@ -1,18 +1,32 @@
-// CSS
-<style type="text/css">
+/*CSS*/
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  color: #eb6191;
+}
+p,ul{
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: -.5px;
+}
 h2{
-  color: #c04;
+  font-size: 150%;
+}
+.my-picture{ 
+text-align: center;
 }
 .resume{
-  color: #01b;
+  color: #A44747;
 }
-.section-title{
-  color: #c04;
+.section-title /*word 'resume'*/{
+  font-size: 200%;
 }
-.header-name{
-  color: #902;
+.header-name /*my name*/{
+  font-size: 325%;
+  text-shadow: 2px 3px 4px #444444;
 }
 .biography{
-  color: #900;
+  line-height: 1; 
 }
-</style>
+a{color:#333333;}
+a:hover{color:#888888;}
